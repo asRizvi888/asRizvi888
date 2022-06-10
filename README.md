@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning Cross Platform Development
 - 💞️ I’m looking to collaborate on "Serveerless Framework"
 - 📫 How to reach me ... 
-  > https://sites.google.com/diu.edu.bd/asrizvi
+  > https://tinyurl.com/alfisharinrizvi
+  > https://g.dev/alfisharinrizvi
 - :link: [also on](https://github.com/alshaV888)
