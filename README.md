@@ -5,4 +5,3 @@
 - 📫 How to reach me ... 
   > https://tinyurl.com/alfisharinrizvi <br>
   > https://g.dev/alfisharinrizvi
-- :link: [also on](https://github.com/alshaV888)
