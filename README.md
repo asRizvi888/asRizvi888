@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Mohammad Alfi Sharin Rizvi** :bangladesh:
-- 🐧 I’m interested in LINUX
+- 🐧 I’m interested in GNU/LINUX
 - 💯 I code in C, C++, Java, Python, Javascript & Typescript
 - 🌱 I’m currently working with Cross Platform Development
 - 📫 How to reach me ... 
